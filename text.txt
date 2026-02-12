@@ -1,0 +1,5 @@
+Weather Dashboard
+The Weather Dashboard is a web application that shows real-time weather information for any city entered by the user.
+It fetches live data from the Open-Meteo API using JavaScript and displays current weather, hourly forecast, and 7-day forecast. It uses the Open-Meteo Geocoding API to get latitude and longitude and the Open-Meteo Weather API to fetch weather data.
+The project uses HTML for structure, CSS for styling, and JavaScript for API handling and dynamic updates.
+It also includes error handling and responsive design for better user experience.
